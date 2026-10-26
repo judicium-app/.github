@@ -35,3 +35,9 @@ The Judicium organization hosts the core application and its supporting tooling.
 ## Contributing
 
 Contributions are welcome. Start with the [main Judicium repository](https://github.com/judicium-app/judicium) for project documentation and contribution guidance.
+
+## Copyright and commercial distribution
+
+© 2026 Hira Barton. All rights reserved. Judicium is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.
+
+[Application ownership and commercial distribution notice](https://github.com/judicium-app/.github/blob/main/APPLICATION-LICENSE.txt)
