@@ -26,7 +26,7 @@ The Judicium organization hosts the core application and its supporting tooling.
 ## Community
 
 <div align="center">
-  <a href="https://discord.gg/Qu5gKvWcT"><img src="https://raw.githubusercontent.com/judicium-app/.github/main/assets/branding/social/icons/discord.svg" width="24" height="24" alt="Discord" title="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/KwMRPGttQ"><img src="https://raw.githubusercontent.com/judicium-app/.github/main/assets/branding/social/icons/discord.svg" width="24" height="24" alt="Discord" title="Discord" /></a>&nbsp;&nbsp;
   <a href="https://bsky.app/profile/judicium-app.bsky.social"><img src="https://raw.githubusercontent.com/judicium-app/.github/main/assets/branding/social/icons/bluesky.svg" width="24" height="24" alt="Bluesky" title="Bluesky" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/judicium-app"><img src="https://raw.githubusercontent.com/judicium-app/.github/main/assets/branding/social/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@JudiciumApp"><img src="https://raw.githubusercontent.com/judicium-app/.github/main/assets/branding/social/icons/youtube.svg" width="24" height="24" alt="YouTube" title="YouTube" /></a>
