@@ -36,6 +36,16 @@ The Judicium organization hosts the core application and its supporting tooling.
 
 Contributions are welcome. Start with the [main Judicium repository](https://github.com/judicium-app/judicium) for project documentation and contribution guidance.
 
+## Judicium artwork
+
+![judicium social card](https://raw.githubusercontent.com/judicium-app/.github/main/assets/brand-kit/judicium/social/judicium-social-card.png)
+
+![judicium app preview card](https://raw.githubusercontent.com/judicium-app/.github/main/assets/brand-kit/judicium/product/judicium-app-preview-card.png)
+
+![judicium architecture card](https://raw.githubusercontent.com/judicium-app/.github/main/assets/brand-kit/judicium/product/judicium-architecture-card.png)
+
+[Browse brand assets](https://github.com/judicium-app/.github/blob/main/assets/brand-kit/README.md)
+
 ## Copyright and commercial distribution
 
 © 2026 Hira Barton. All rights reserved. Judicium is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.

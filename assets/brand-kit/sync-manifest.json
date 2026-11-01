@@ -1,0 +1,456 @@
+{
+  "source_repository": "NoirStackLLC/brand-kit",
+  "source_ref": "a667b4c59ec9c26a17ae88f8fbbd72f2252e5c2c",
+  "assets": [
+    {
+      "source_path": "brands/judicium/originals/judicium-logo-mark.png",
+      "sha": "e6443459d7ed750da0043e7ae10a45a7e393c7b2",
+      "bytes": 78745,
+      "copied": false
+    },
+    {
+      "source_path": "brands/judicium/originals/judicium-logo-transparent.png",
+      "sha": "981b90cc0868e30ad0adc8db289d9c85a4f628e6",
+      "bytes": 99795,
+      "copied": false
+    },
+    {
+      "source_path": "brands/judicium/originals/judicium-logo.png",
+      "sha": "7fd5bc3187ce1f379be85ce62b48a90820b808cb",
+      "bytes": 476018,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/logo/judicium-logo-dark-purple.png",
+      "sha": "7fd5bc3187ce1f379be85ce62b48a90820b808cb",
+      "bytes": 476018,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/logo/judicium-logo-purple-watermark.png",
+      "sha": "6d621912985f640e5608b87e381605fa5583bcce",
+      "bytes": 877965,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/logo/judicium-logo-purple.png",
+      "sha": "aa8c8f4d1ccbba0256f682b69432d9ca966996a9",
+      "bytes": 780539,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/logo/judicium-logo-removebg-preview.png",
+      "sha": "981b90cc0868e30ad0adc8db289d9c85a4f628e6",
+      "bytes": 99795,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/logo/judicium-logo.png",
+      "sha": "ac7755c43b9b7b7d77ea992cd8ec36f2cd2560ac",
+      "bytes": 467710,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-app-preview-card.png",
+      "sha": "68219fbf53a5cfe12f717e3e5665529d85829a78",
+      "bytes": 2059160,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-architecture-card.png",
+      "sha": "134968a4fbd9fd07f45511c46faff928c07f7bef",
+      "bytes": 1198916,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-banner-purple.png",
+      "sha": "21220820f765047ea2272c1de7a84ee4ec1b168e",
+      "bytes": 1717736,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-capability-card.png",
+      "sha": "3e66408fa4aa0cc891805a839824fff6fff28629",
+      "bytes": 636138,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-dashboard-preview-card.png",
+      "sha": "2976393b8bca5de0e80460fbe42a1f7c76716977",
+      "bytes": 1415329,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-defensible-decision-card.png",
+      "sha": "4255e28bdc3a3372e49bd66727de94d53221f4b9",
+      "bytes": 1712523,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-developer-card.png",
+      "sha": "f59e85990eaa6faef987458dac94031e3b2c76ec",
+      "bytes": 821974,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-docs-cover.png",
+      "sha": "5fd74a850ab88dd982f802e7b406ab1c13f06d4b",
+      "bytes": 1194502,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-feature-card.png",
+      "sha": "cac61b2485727f33ced704b0f5831bf8affc153b",
+      "bytes": 2144583,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-hero-card.png",
+      "sha": "6f14ab0917b6bd4901493c07910b8fd90bd23989",
+      "bytes": 2157805,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-investigate-understand-act-card.png",
+      "sha": "a378178bb7e8371467522b30c356cafbaab10750",
+      "bytes": 2060694,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-operational-understanding-card.png",
+      "sha": "9948ac83a2efbc10b01321f3df84a1fe639c3342",
+      "bytes": 1953143,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-platform-analysis-card.jpg",
+      "sha": "4255e28bdc3a3372e49bd66727de94d53221f4b9",
+      "bytes": 1712523,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-release-card.png",
+      "sha": "b3766c81f26ab2afb5085e534d5bcb72b0fe7f1a",
+      "bytes": 1734683,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/product/judicium-scifi-branding-porfolio-grid .png",
+      "sha": "3c0f25c867a4b0a0ba8a9fea259eedcbd779cb8e",
+      "bytes": 2223302,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/android/android-144.png",
+      "sha": "22da6d131a89865cd10634f0324de05e70cbb9dc",
+      "bytes": 13338,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/android/android-192.png",
+      "sha": "0e8cbb62cbc498417a11f2c4ef2e71972ae8cd58",
+      "bytes": 21040,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/android/android-48.png",
+      "sha": "39347013eedb47473e0bd71d2b9bbb866c98ab17",
+      "bytes": 2904,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/android/android-512.png",
+      "sha": "c28f7f984325b246b39d69e5826294efa4b0ec2f",
+      "bytes": 103028,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/android/android-72.png",
+      "sha": "bddaead119bbc0f349b28afb1f71ce32777a6091",
+      "bytes": 4993,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/android/android-96.png",
+      "sha": "ccccddce06016384e779a455a4905f09fea320e4",
+      "bytes": 7712,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/chrome/icon-128.png",
+      "sha": "38e0679fc59ddb0c267bae9f9b73dbd873001ccf",
+      "bytes": 11152,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/chrome/icon-16.png",
+      "sha": "7b97a19489dd0017ea6bf86c59ec70221b24a35e",
+      "bytes": 944,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/chrome/icon-24.png",
+      "sha": "d6acfe9b91ed9e54f056957960c835cdd25d1dd2",
+      "bytes": 1316,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/chrome/icon-32.png",
+      "sha": "176d4828d8c5324eac86068efce7f7c450ea05ae",
+      "bytes": 1860,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/chrome/icon-48.png",
+      "sha": "39347013eedb47473e0bd71d2b9bbb866c98ab17",
+      "bytes": 2904,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/favicon/favicon-16x16.png",
+      "sha": "7b97a19489dd0017ea6bf86c59ec70221b24a35e",
+      "bytes": 944,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/favicon/favicon-32x32.png",
+      "sha": "176d4828d8c5324eac86068efce7f7c450ea05ae",
+      "bytes": 1860,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/favicon/favicon-48x48.png",
+      "sha": "39347013eedb47473e0bd71d2b9bbb866c98ab17",
+      "bytes": 2904,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/favicon/favicon.ico",
+      "sha": "23090328dfc197f12a4f0e8752d5143e88242c76",
+      "bytes": 15086,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/ios/apple-icon-1024.png",
+      "sha": "e3f985ccda5fd0e7cc95d097913a71205076a9a1",
+      "bytes": 317791,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/ios/apple-icon-120.png",
+      "sha": "4b7a5aa8cc5e3820b7400d797f3a2af257144764",
+      "bytes": 10459,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/ios/apple-icon-152.png",
+      "sha": "5fd61ee9b323ed988f0da2696b585796714edd41",
+      "bytes": 14695,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/ios/apple-icon-167.png",
+      "sha": "847273f5cdb3f07a20ab178f6a18884bd17679cb",
+      "bytes": 16976,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/ios/apple-icon-180.png",
+      "sha": "90512143455ee385f735ea77ea66221762e38cab",
+      "bytes": 18908,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-1024.png",
+      "sha": "e3f985ccda5fd0e7cc95d097913a71205076a9a1",
+      "bytes": 317791,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-128.png",
+      "sha": "38e0679fc59ddb0c267bae9f9b73dbd873001ccf",
+      "bytes": 11152,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-16.png",
+      "sha": "7b97a19489dd0017ea6bf86c59ec70221b24a35e",
+      "bytes": 944,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-256.png",
+      "sha": "2714b85644523c99d7ca3fb5c0e2fe92a92732ee",
+      "bytes": 33321,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-32.png",
+      "sha": "176d4828d8c5324eac86068efce7f7c450ea05ae",
+      "bytes": 1860,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-512.png",
+      "sha": "c28f7f984325b246b39d69e5826294efa4b0ec2f",
+      "bytes": 103028,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/macos/icon-64.png",
+      "sha": "bbcbc8d5904d8fb5eb97e17213d76c00da2703c8",
+      "bytes": 4315,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/pwa/apple-touch-icon.png",
+      "sha": "90512143455ee385f735ea77ea66221762e38cab",
+      "bytes": 18908,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/pwa/icon-192.png",
+      "sha": "0e8cbb62cbc498417a11f2c4ef2e71972ae8cd58",
+      "bytes": 21040,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/pwa/icon-512.png",
+      "sha": "c28f7f984325b246b39d69e5826294efa4b0ec2f",
+      "bytes": 103028,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/pwa/icon-maskable-192.png",
+      "sha": "0e8cbb62cbc498417a11f2c4ef2e71972ae8cd58",
+      "bytes": 21040,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/pwa/icon-maskable-512.png",
+      "sha": "c28f7f984325b246b39d69e5826294efa4b0ec2f",
+      "bytes": 103028,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/social/og-image-1200x630.png",
+      "sha": "12c6477901e89e78d4dfb307e46ff942ee38d46b",
+      "bytes": 912185,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/social/twitter-card-1200x600.png",
+      "sha": "9f99274b1208945e9b13ebdfe6086acc84666035",
+      "bytes": 943783,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/windows/tile-150.png",
+      "sha": "763b2706ffbcd31a7e5fcf2110e38b04f3094ec6",
+      "bytes": 14234,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/windows/tile-310.png",
+      "sha": "89a7faa5c63046b4ef218a8386233bed80c976d3",
+      "bytes": 45650,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/resized/windows/tile-71.png",
+      "sha": "6021307f496770ac4fbe231f51e204e951464f4d",
+      "bytes": 4723,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/social/intelligence-globe-context-to-clarity.png",
+      "sha": "5697b2d5d065ea2b7b99c454c9190f25dd42e93a",
+      "bytes": 1970217,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium global context network.png",
+      "sha": "38c75a810f2eafc15b699dfe200c098655823a8c",
+      "bytes": 2139813,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-context-fabric-card.png",
+      "sha": "287d49632237bab7faebffd30c95bd9eb38d7e4b",
+      "bytes": 2233264,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-from-data- to-understanding.png",
+      "sha": "567308b0a0842ba0821a05de4d75600a558ab915",
+      "bytes": 2131814,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-from-fragmented-data-to-clarity.png",
+      "sha": "2bf27b5958ba1896abad2c15858fa362ff8a7603",
+      "bytes": 1871046,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-hero-card.png",
+      "sha": "98cb432693dc26643da2080af1d3127fdc0b6644",
+      "bytes": 1548052,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-hero-card.png.png",
+      "sha": "c1e3e1ee7b7d1d8531ab3b9d14aea621a59e1c30",
+      "bytes": 2174512,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-light-background-card.png",
+      "sha": "e414bf7c09a693769132d4a8c4f9ea4a33413118",
+      "bytes": 1559823,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-repository-banner.png",
+      "sha": "7953c9283b36eaffddff57234836c31763dc3868",
+      "bytes": 2068277,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-repository-investigate-banner.png",
+      "sha": "8436708bb47ecb29d0130efe5ab2b6895d8d0c5f",
+      "bytes": 1329556,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-social-banner.png",
+      "sha": "355ec595d3e7caac8340279b6979c3b1da491681",
+      "bytes": 2044184,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-social-card.png",
+      "sha": "b91d15bb727dca1d7394bc2778a32b2cbe01c695",
+      "bytes": 719266,
+      "copied": true
+    },
+    {
+      "source_path": "judicium/social/judicium-studio-card.png",
+      "sha": "23d2bec05439da0acb84470f4ff0c078072e388d",
+      "bytes": 1719326,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-vertical-banner.png",
+      "sha": "a5f053108910ee262870250b8f8525602e598d74",
+      "bytes": 2024233,
+      "copied": false
+    },
+    {
+      "source_path": "judicium/social/judicium-video-thumbnail.png",
+      "sha": "a86ad8a353cfdb02744bf0b28bca92dc09286d7d",
+      "bytes": 1450113,
+      "copied": false
+    }
+  ]
+}
